@@ -324,7 +324,7 @@ report:
 
 ```bash
 # 환경변수 설정
-export SLACK_WEBHOOK_URL="YOUR_TOKEN_HERE"
+# export SLACK_WEBHOOK_URL="YOUR_TOKEN_HERE"
 
 # 또는 config 파일에 직접 입력
 ```
