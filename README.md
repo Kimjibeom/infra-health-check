@@ -1,5 +1,4 @@
-# 🔍 AI, LLM, K8s Infrastructure Health Check System
-# Made by Hwiwon Joung(정휘원, Sean)
+# K8s Infrastructure Health Check System
 
 **인프라 정기점검 자동화 시스템**
 
