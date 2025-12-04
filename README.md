@@ -1,4 +1,4 @@
-# 🔍 AI, LLM, K8s Infrastructure Health Check System
+# K8s Infrastructure Health Check System
 
 **인프라 정기점검 자동화 시스템**
 
