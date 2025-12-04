@@ -324,7 +324,7 @@ report:
 
 ```bash
 # 환경변수 설정
-export SLACK_WEBHOOK_URL="https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX"
+export SLACK_WEBHOOK_URL="https://hooks.slack.com/services/YOUR_TOKEN_HERE"
 
 # 또는 config 파일에 직접 입력
 ```
